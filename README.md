@@ -16,6 +16,7 @@ This project will make use of strings, conditional flow, data structures, and fo
 
 
 # Notes
+This program does not account for question marks, commas, or any other punctuation marks. If the user enters a sentence with any type of punctuation mark, the program does not behave as intended. To fix this, one would have to slice out the punctuation mark and reinsert it in the appropriate place. 
 
 
 # Project Walk-Through:
