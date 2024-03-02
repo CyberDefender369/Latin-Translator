@@ -1,4 +1,4 @@
-# Latin Translator
+# Pig Latin Translator
 
 
 # Description 
