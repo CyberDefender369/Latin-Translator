@@ -2,7 +2,7 @@
 
 
 # Description 
-This project makes use of string slicing, string concatenation, string methods, conditional flow, data structures, and for loops to create an imaginary language that will be called pig latin. The program converts the user entered sentence into pig latin. Pig latin moves the first few consonants of a word to the end and adds "ay." If the word starts with a vowel, then "yay" is added to the end of the word. Put simply, every word starts with a vowel in pig latin.
+This Python project combines various programming techniques, including string manipulation (slicing, concatenation, and methods), conditional flow, data structures, and for loops. The goal is to create a Pig Latin converter—an imaginary language transformation tool. When given a user-entered sentence, the program converts it into Pig Latin. In Pig Latin, consonants from the beginning of a word are moved to the end, followed by the addition of “ay.” If a word starts with a vowel, “yay” is appended to the end. In essence, every word begins with a vowel in Pig Latin.
 
 
 # Language and Utilities Used
@@ -13,10 +13,6 @@ This project makes use of string slicing, string concatenation, string methods, 
 # Environments Used 
 
 - Windows 11
-
-
-# Notes
-This program does not account for question marks, commas, or any other punctuation marks. If the user enters a sentence with any type of punctuation mark, the program does not behave as intended. To fix this, one would have to slice out the punctuation mark and reinsert it in the appropriate place. 
 
 
 # Project Walk-Through:
