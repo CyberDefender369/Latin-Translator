@@ -25,5 +25,5 @@ Notice how every word starts with a vowel?
 <img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2129945&authkey=%21AJsRrgm0Yl2tt9Y&width=694&height=764" width="80%" height="80%" />
 
 
-Hopefully, this makes you a believer. 
+Hopefully, this makes you a believer.
 <img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2129949&authkey=%21ADkjRPFWH9bh5Tw&width=690&height=748" width="80%" height="80%" />
