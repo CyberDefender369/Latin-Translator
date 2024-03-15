@@ -22,8 +22,8 @@ This Python project combines various programming techniques, including string ma
 
 
 Notice how every word starts with a vowel?
-<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2129945&authkey=%21AJsRrgm0Yl2tt9Y&width=694&height=764" width="80%" height="80%" />
+<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130058&authkey=%21AJwzyW93phZa5Vg&width=727&height=884" width="80%" height="80%" />
 
 
 Hopefully, this makes you a believer.
-<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2129949&authkey=%21ADkjRPFWH9bh5Tw&width=690&height=748" width="80%" height="80%" />
+<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130060&authkey=%21ANafKMpD163qdHA&width=862&height=886" width="80%" height="80%" />
